@@ -1,0 +1,3 @@
+build/print*.html
+__pycache__/
+.vercel
