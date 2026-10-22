@@ -8,8 +8,9 @@ Guia completo para ir do zero ao **C2 em inglês em 5 anos**, com preparação p
 | --- | --- |
 | [`site/index.html`](site/index.html) | Site do guia (o mesmo publicado na Vercel) |
 | [`site/Guia-Ingles-5-Anos.pdf`](site/Guia-Ingles-5-Anos.pdf) | Guia completo em PDF (39 páginas) |
+| [`site/Ingles-da-Vida-Real.pdf`](site/Ingles-da-Vida-Real.pdf) · [`site/blocos.html`](site/blocos.html) | Caderno "Inglês da vida real": 40+ situações em 3 níveis (25 páginas) |
 | [`site/extras/`](site/extras/) | Plano anterior A1–C2 em HTML, PDF e slides (.pptx) |
-| [`guia/`](guia/) | Conteúdo original em Markdown, um arquivo por capítulo |
+| [`guia/`](guia/) e [`blocos/`](blocos/) | Conteúdo original em Markdown, um arquivo por capítulo |
 | [`build/`](build/) | Scripts que geram o site, o PDF e os slides |
 
 ## O que tem no guia
@@ -29,11 +30,12 @@ Guia completo para ir do zero ao **C2 em inglês em 5 anos**, com preparação p
 
 ## Como editar e regenerar
 
-Edite os arquivos em `guia/` e rode:
+Edite os arquivos em `guia/` ou `blocos/` e rode:
 
 ```bash
 pip install markdown        # e tenha o wkhtmltopdf instalado para o PDF
-python3 build/build_guia.py # gera site/index.html e site/Guia-Ingles-5-Anos.pdf
+python3 build/build_guia.py guia    # gera site/index.html e site/Guia-Ingles-5-Anos.pdf
+python3 build/build_guia.py blocos  # gera site/blocos.html e site/Ingles-da-Vida-Real.pdf
 ```
 
 Plano anterior (opcional): `python3 build/build_html.py` e `node build/build_pptx.js` (requer `pptxgenjs`).
