@@ -1,0 +1,55 @@
+@block brasil-netflix-jornal | Conversas: Brasil x Netflix x jornal | Três contextos que aparecem em toda conversa com gringos: falar do Brasil, comentar séries e entender notícias.
+## Falando do Brasil
+B | Brazil is a very big country. | bra-ZÍL iz a VÉ-ri big KÂN-tri | O Brasil é um país muito grande.
+B | We speak Portuguese in Brazil. | uí spík pór-tchu-GÍZ in bra-ZÍL | Falamos português no Brasil.
+B | The capital is Brasília, not Rio! | dhe KÉ-pi-tou iz bra-ZÍ-li-a, nót RÍ-ou | A capital é Brasília, não o Rio!
+B | It's summer in December in Brazil. | its SÂ-mâr in di-SÉM-bâr in bra-ZÍL | No Brasil é verão em dezembro.
+B | We eat rice and beans every day. | uí ít ráis end bínz É-vri dêi | Comemos arroz e feijão todo dia.
+B | Do you know Brazilian music? | du iu nôu bra-ZÍ-li-an MIÚ-zik | Você conhece música brasileira?
+I | Carnival is the biggest party of the year. | KÁR-ni-vou iz dhe BÍ-guest PÁR-ti ov dhe ír | O Carnaval é a maior festa do ano.
+I | People in Brazil are really warm — we hug everyone! | PÍ-pou in bra-ZÍL ar RÍ-li uórm, uí râg É-vri-uân | O brasileiro é caloroso, a gente abraça todo mundo!
+I | Brazilians are always a little late, it's cultural. | bra-ZÍ-li-anz ar ÓL-uêiz a LÍ-tou lêit, its KÂL-tcha-rou | Brasileiro sempre atrasa um pouco, é cultural.
+I | You have to try pão de queijo — it's a cheese bread. | iu rév tchu trái pão de kêi-ju, its a tchíz bréd | Você precisa provar pão de queijo, é um pão de queijo.
+I | Soccer is basically a religion in Brazil. | SÓ-kâr iz BÊI-sik-li a ri-LÍ-djan in bra-ZÍL | Futebol é praticamente uma religião no Brasil.
+I | São Paulo has the biggest Japanese community outside Japan. | são PÁU-lu rez dhe BÍ-guest dja-pa-NÍZ ko-MIÚ-ni-ti áut-SÁID dja-PÉN | São Paulo tem a maior comunidade japonesa fora do Japão.
+A | Brazil isn't just beaches and samba — there's a lot more to it. | bra-ZÍL ÍZ-ent djâst BÍ-tchiz end SÉM-ba, dhérz a lót mór tchu it | O Brasil não é só praia e samba, tem muito mais.
+A | The economy has its ups and downs, but people always find a way. | dhi i-KÓ-no-mi rez its âps end dáunz, bât PÍ-pou ÓL-uêiz fáind a uêi | A economia tem altos e baixos, mas o povo sempre dá um jeito.
+A | There's no direct translation for "saudade", but it's like missing someone deeply. | dhérz nôu dai-RÉKT trenz-LÊI-shan fór sau-DÁ-dji | Não existe tradução direta para "saudade", mas é como sentir muita falta de alguém.
+A | "Jeitinho brasileiro" is our knack for finding creative workarounds. | djei-TCHÍ-nho bra-zi-LÊI-ru iz áuar nék fór FÁIN-din kri-ÊI-tiv UÂR-ka-raundz | "Jeitinho brasileiro" é o nosso talento para soluções criativas.
+A | We have a saying: "Brazil is not for beginners." | uí rév a SÊI-in: bra-ZÍL iz nót fór bi-GUÍ-nârz | Temos um ditado: "O Brasil não é para amadores."
+## Netflix e séries
+B | What are you watching on Netflix? | uót ar iu UÓ-tchin ón NÉT-fliks | O que você está vendo na Netflix?
+B | I love this series. | ái lâv dhis SÍ-riz | Amo essa série.
+B | Is it good? / Is it funny? | iz it gûd / iz it FÂ-ni | É boa? / É engraçada?
+B | Let's watch a movie tonight. | léts uótch a MÚ-vi tu-NÁIT | Vamos ver um filme hoje à noite.
+B | Season 2, episode 5. | SÍ-zon tchú, É-pi-sôud fáiv | Temporada 2, episódio 5.
+B | I watch with English subtitles. | ái uótch uidh ÍN-glish SÂB-tái-touz | Assisto com legenda em inglês.
+I | I binge-watched the whole season in one weekend. | ái BÍNDJ-uótcht dhe rôul SÍ-zon in uân UÍK-énd | Maratonei a temporada inteira num fim de semana.
+I | No spoilers, please! I'm only on episode three. | nôu SPÓI-lârz, plíz! áim ÔUN-li ón É-pi-sôud thrí | Sem spoilers! Estou só no episódio três.
+I | The ending was so disappointing. | dhi ÉN-din uóz sôu di-sa-PÓIN-tin | O final foi tão decepcionante.
+I | It's a Brazilian series, but it's dubbed in English. | its a bra-ZÍ-li-an SÍ-riz, bât its dâbd in ÍN-glish | É uma série brasileira, mas dublada em inglês.
+I | Have you seen the new season yet? | rév iu sín dhe niú SÍ-zon iét | Você já viu a temporada nova?
+I | What's it about? — It's about a family that runs a restaurant. | uóts it a-BÁUT? its a-BÁUT a FÉ-mi-li dhét rânz a RÉS-to-rant | É sobre o quê? — Sobre uma família que tem um restaurante.
+I | The main character is so annoying. | dhe mêin KÉ-rek-târ iz sôu a-NÓI-in | A personagem principal é muito irritante.
+A | It's a slow burn, but trust me, it pays off. | its a slôu bârn, bât trâst mi, it pêiz óf | Demora a engatar, mas confia, vale a pena.
+A | I'm hooked — I couldn't stop at "just one more episode". | áim rûkt, ái KÛ-dent stóp ét djâst uân mór É-pi-sôud | Estou viciada, não consegui parar no "só mais um episódio".
+A | That plot twist came out of nowhere! | dhét plót tuíst kêim áut ov NÔU-uér | Aquela reviravolta veio do nada!
+A | The first season was great, but it jumped the shark after that. | dhe fârst SÍ-zon uóz grêit, bât it djâmpt dhe shárk ÉF-târ dhét | A primeira temporada foi ótima, mas depois desandou.
+A | It's one of those shows everyone at work is talking about. | its uân ov dhôuz shôuz É-vri-uân ét uârk iz TÓ-kin a-BÁUT | É uma daquelas séries que todo mundo no trabalho comenta.
+## Jornal e notícias
+B | Did you see the news? | did iu sí dhe niúz | Você viu as notícias?
+B | Breaking news! | BRÊI-kin niúz | Última hora!
+B | The weather forecast says it's going to rain. | dhe UÉ-dhâr FÓR-kést sez its GÔU-in tchu rêin | A previsão do tempo diz que vai chover.
+B | headline / article / journalist | RÉD-láin / ÁR-ti-kou / DJÂR-na-list | manchete / matéria / jornalista
+I | According to the news, inflation went down. | a-KÓR-din tchu dhe niúz, in-FLÊI-shan uént dáun | Segundo o jornal, a inflação caiu.
+I | The president announced new measures today. | dhe PRÉ-zi-dent a-NÁUNST niú MÉ-jârz tu-DÊI | O presidente anunciou novas medidas hoje.
+I | There was a huge traffic jam on the highway. | dhér uóz a riúdj TRÉ-fik djém ón dhe RÁI-uêi | Teve um engarrafamento enorme na rodovia.
+I | The interest rate went up again. | dhi ÍN-trest rêit uént âp a-GUÉN | A taxa de juros subiu de novo.
+I | Prices are going up at the supermarket. | PRÁI-siz ar GÔU-in âp ét dhe SU-pâr-már-ket | Os preços estão subindo no mercado.
+I | Elections are coming up next year. | i-LÉK-shanz ar KÂ-min âp nékst ír | As eleições são no ano que vem.
+I | Is this fake news? Let me check the source. | iz dhis fêik niúz? let mi tchék dhe sórs | Isso é fake news? Deixa eu checar a fonte.
+A | Unemployment hit a record low this quarter. | ân-em-PLÓI-ment rit a RÉ-kord lôu dhis KUÓR-târ | O desemprego atingiu o menor nível já registrado neste trimestre.
+A | Experts warn the heat wave could last another week. | ÉKS-pârts uórn dhe rít uêiv kûd lést a-NÂ-dhâr uík | Especialistas alertam que a onda de calor pode durar mais uma semana.
+A | The company's shares plunged after the announcement. | dhe KÂM-pa-niz shérz plândjd ÉF-târ dhi a-NÁUNS-ment | As ações da empresa despencaram depois do anúncio.
+A | The bill passed in Congress, but it still needs to be signed. | dhe bil pést in KÓN-gres, bât it stil nídz tchu bi sáind | O projeto passou no Congresso, mas ainda precisa ser sancionado.
+A | Headline-speak: "Gov't slashes taxes" = the government cuts taxes a lot. | RÉD-láin spík: GÂ-vârn-ment SLÉ-shiz TÉK-siz | Linguagem de manchete: "Governo corta impostos" (manchetes usam verbos curtos e fortes)

@@ -1,0 +1,85 @@
+@block numeros | Numerais | Números cardinais, ordinais, decimais, dinheiro, porcentagem, telefone e números grandes.
+## 0 a 20
+B | 0 — zero / oh | ZÍ-rou / ôu | zero ("oh" ao ditar telefone)
+B | 1 — one | uân | um
+B | 2 — two | tchú | dois
+B | 3 — three | thrí | três
+B | 4 — four | fór | quatro
+B | 5 — five | fáiv | cinco
+B | 6 — six | síks | seis
+B | 7 — seven | SÉ-ven | sete
+B | 8 — eight | êit | oito
+B | 9 — nine | náin | nove
+B | 10 — ten | tén | dez
+B | 11 — eleven | i-LÉ-ven | onze
+B | 12 — twelve | tuélv | doze
+B | 13 — thirteen | thâr-TÍN | treze
+B | 14 — fourteen | fór-TÍN | catorze
+B | 15 — fifteen | fif-TÍN | quinze
+B | 16 — sixteen | siks-TÍN | dezesseis
+B | 17 — seventeen | se-ven-TÍN | dezessete
+B | 18 — eighteen | êi-TÍN | dezoito
+B | 19 — nineteen | náin-TÍN | dezenove
+B | 20 — twenty | TUÉN-ti | vinte
+## Dezenas e centenas
+B | 21 — twenty-one | TUÉN-ti uân | vinte e um
+B | 25 — twenty-five | TUÉN-ti fáiv | vinte e cinco
+B | 30 — thirty | THÂR-ti | trinta
+B | 40 — forty (sem "u"!) | FÓR-ti | quarenta
+B | 50 — fifty | FÍF-ti | cinquenta
+B | 60 — sixty | SÍKS-ti | sessenta
+B | 70 — seventy | SÉ-ven-ti | setenta
+B | 80 — eighty | ÊI-ti | oitenta
+B | 90 — ninety | NÁIN-ti | noventa
+B | 100 — one hundred / a hundred | uân RÂN-dred | cem
+I | 101 — one hundred and one | uân RÂN-dred end uân | cento e um
+I | 250 — two hundred and fifty | tchú RÂN-dred end FÍF-ti | duzentos e cinquenta
+I | 999 — nine hundred and ninety-nine | náin RÂN-dred end NÁIN-ti náin | novecentos e noventa e nove
+## Milhares, milhões e bilhões
+I | 1,000 — one thousand | uân THÁU-zend | mil
+I | 2,500 — two thousand five hundred | tchú THÁU-zend fáiv RÂN-dred | dois mil e quinhentos
+I | 10,000 — ten thousand | tén THÁU-zend | dez mil
+I | 100,000 — one hundred thousand | uân RÂN-dred THÁU-zend | cem mil
+I | 1,000,000 — one million | uân MÍ-lion | um milhão
+I | 1,000,000,000 — one billion | uân BÍ-lion | um bilhão
+A | 3.2 million users | thrí póint tchú MÍ-lion IÚ-zârz | 3,2 milhões de usuários
+A | The company is worth half a billion dollars. | dhe KÂM-pa-ni iz uârth réf a BÍ-lion DÓ-lârz | A empresa vale meio bilhão de dólares.
+A | thousands of / millions of people | THÁU-zendz ov / MÍ-lionz ov PÍ-pou | milhares / milhões de pessoas
+## Ordinais (posições e datas)
+B | 1st — first | fârst | primeiro
+B | 2nd — second | SÉ-kond | segundo
+B | 3rd — third | thârd | terceiro
+B | 4th — fourth | fórth | quarto
+B | 5th — fifth | fifth | quinto
+B | 10th — tenth | ténth | décimo
+I | 12th — twelfth | tuélfth | décimo segundo
+I | 20th — twentieth | TUÉN-ti-eth | vigésimo
+I | 21st — twenty-first | TUÉN-ti fârst | vigésimo primeiro
+I | 22nd — twenty-second | TUÉN-ti SÉ-kond | vigésimo segundo
+I | 100th — hundredth | RÂN-dredth | centésimo
+I | I live on the 8th floor. | ái liv ón dhi êith flór | Moro no 8º andar.
+## Decimais, frações e porcentagens
+B | 2.5 — two point five | tchú póint fáiv | 2,5
+B | 50% — fifty percent | FÍF-ti pâr-SÉNT | 50%
+I | 0.75 — zero point seven five | ZÍ-rou póint SÉ-ven fáiv | 0,75 (dígitos um a um depois do ponto)
+I | ½ — a half / one half | a réf | meio
+I | ⅓ — a third | a thârd | um terço
+I | ¼ — a quarter | a KUÓR-târ | um quarto
+I | ¾ — three quarters | thrí KUÓR-târz | três quartos
+A | Sales went up by 12.5% this quarter. | sêilz uént âp bai tuélv póint fáiv pâr-SÉNT dhis KUÓR-târ | As vendas subiram 12,5% neste trimestre.
+## Dinheiro
+B | R$ 50 — fifty reais | FÍF-ti re-ÁIS | 50 reais
+B | $10 — ten dollars | tén DÓ-lârz | 10 dólares
+B | How much is it? | rau mâtch iz it | Quanto custa?
+I | $4.99 — four ninety-nine | fór NÁIN-ti náin | 4,99 dólares (forma falada)
+I | €20 — twenty euros | TUÉN-ti IÚ-rouz | 20 euros
+I | £15 — fifteen pounds | fif-TÍN páundz | 15 libras
+A | It's about two grand. | its a-BÁUT tchú grénd | Dá uns dois mil (grand = mil, informal).
+A | That'll be thirty-two fifty. | dhétl bi THÂR-ti tchú FÍF-ti | Fica 32,50.
+## Telefone, idade e medidas
+B | My number is 11 98765-4321. | mái NÂM-bâr iz uân uân, náin êit SÉ-ven síks fáiv, fór thrí tchú uân | Meu número é…
+I | double five (55) | DÂ-bou fáiv | cinco cinco (dígitos repetidos, comum no Reino Unido)
+I | I'm 1.65 m tall. | áim uân MÍ-târ SÍKS-ti fáiv | Tenho 1,65 m.
+I | It's 30 degrees today. | its THÂR-ti di-GRÍZ tu-DÊI | Está 30 graus hoje.
+A | It's 86 degrees Fahrenheit — about 30 Celsius. | its ÊI-ti síks di-GRÍZ FÉ-ren-rait | Está 86 °F, uns 30 °C.
+A | The 90s / the 2000s | dhe NÁIN-tiz / dhe tchú THÁU-zendz | os anos 90 / os anos 2000

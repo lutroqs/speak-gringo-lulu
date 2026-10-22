@@ -1,0 +1,68 @@
+@block plural-tamanho | Plural, diminutivo e aumentativo | Inglês não tem -inho e -ão como o português: usamos palavras como little, tiny, big, huge e algumas terminações (-ie, -y, -let).
+## Plural: regra geral (+s)
+B | book → books | bûk / bûks | livro → livros
+B | car → cars | kár / kárz | carro → carros
+B | friend → friends | frend / frendz | amigo → amigos
+B | client → clients | KLÁI-ent / KLÁI-ents | cliente → clientes
+B | meeting → meetings | MÍ-tin / MÍ-tinz | reunião → reuniões
+## Plural: -es, -ies, -ves
+B | bus → buses | bâs / BÂ-siz | ônibus
+B | box → boxes | bóks / BÓK-siz | caixa → caixas
+B | watch → watches | uótch / UÓ-tchiz | relógio → relógios
+B | dish → dishes | dish / DÍ-shiz | prato → pratos
+I | city → cities | SÍ-ti / SÍ-tiz | cidade → cidades (consoante + y → ies)
+I | company → companies | KÂM-pa-ni / KÂM-pa-niz | empresa → empresas
+I | day → days | dêi / dêiz | dia → dias (vogal + y → só s)
+I | potato → potatoes | po-TÊI-tou / po-TÊI-touz | batata → batatas
+I | knife → knives | náif / náivz | faca → facas
+I | wife → wives | uáif / uáivz | esposa → esposas
+I | leaf → leaves | líf / lívz | folha → folhas
+## Plural irregular
+B | man → men | mén / mén | homem → homens
+B | woman → women | UÛ-man / UÍ-min | mulher → mulheres (atenção à pronúncia!)
+B | child → children | tcháild / TCHÍL-dren | criança → crianças
+B | person → people | PÂR-son / PÍ-pou | pessoa → pessoas
+I | foot → feet | fût / fít | pé → pés
+I | tooth → teeth | túth / títh | dente → dentes
+I | mouse → mice | máus / máis | rato → ratos
+I | fish → fish | fish / fish | peixe → peixes (igual)
+I | sheep → sheep | shíp / shíp | ovelha → ovelhas (igual)
+A | analysis → analyses | a-NÉ-li-sis / a-NÉ-li-síz | análise → análises
+A | criterion → criteria | krai-TÍ-ri-on / krai-TÍ-ri-a | critério → critérios
+A | datum → data | DÊI-tâm / DÊI-ta | dado → dados (data já é plural)
+## Incontáveis (nunca levam s)
+B | information (nunca informations) | in-for-MÊI-shan | informação / informações
+B | advice (nunca advices) | ad-VÁIS | conselho / conselhos → a piece of advice
+B | money / water / rice | MÂ-ni / UÓ-târ / ráis | dinheiro / água / arroz
+I | feedback / homework / furniture | FÍD-bék / RÔUM-uârk / FÂR-ni-tchâr | feedback / lição / móveis
+I | news is (singular!) | niúz iz | a notícia é / as notícias são
+A | a lot of feedback / some useful information | a lót ov FÍD-bék | muito feedback / algumas informações úteis
+## Diminutivo (-inho, -inha)
+B | a little house | a LÍ-tou ráus | uma casinha
+B | a small car | a smól kár | um carrinho
+B | a tiny dog | a TÁI-ni dóg | um cachorrinho (bem pequeno)
+B | a little bit | a LÍ-tou bit | um pouquinho
+I | doggy / doggie | DÓ-gui | cachorrinho (carinhoso, -y / -ie)
+I | kitty | KÍ-ti | gatinho
+I | sweetie / honey | SUÍ-ti / RÂ-ni | amorzinho / querida
+I | booklet | BÛK-let | livreto (-let = pequeno)
+I | piglet | PÍG-let | porquinho
+I | duckling | DÂK-lin | patinho (-ling = filhote)
+I | a cute little café | a kiút LÍ-tou ka-FÊI | um cafezinho fofo (lugar)
+A | Just a sec! / Give me a sec. | djâst a sék | Só um minutinho!
+A | an itty-bitty bag | en Í-ti BÍ-ti bég | uma bolsinha minúscula (bem informal)
+A | teeny-tiny | TÍ-ni TÁI-ni | pequenininho
+A | Would you like a coffee? (não existe "cafezinho") | uûd iu láik a KÓ-fi | Aceita um cafezinho?
+## Aumentativo (-ão, -ona)
+B | a big house | a big ráus | um casarão
+B | a big guy | a big gái | um grandão
+B | a very big dog | a VÉ-ri big dóg | um cachorrão
+I | a huge mistake | a RIÚDJ mis-TÊIK | um erro enorme / um errão
+I | a giant pizza | a DJÁI-ant PÍT-sa | uma pizza gigante / pizzona
+I | enormous / massive | i-NÓR-mâs / MÉ-siv | enorme / imenso
+I | He's a really tall, big guy. | ríz a RÍ-li tól, big gái | Ele é um grandão.
+A | a whopper / a whopping $500 | a UÓ-pâr / a UÓ-pin fáiv RÂN-dred DÓ-lârz | um baita… / incríveis 500 dólares
+A | mega / super / jumbo (prefixos) | MÉ-ga / SÚ-pâr / DJÂM-bou | megaliquidação, supermercado, jumbo
+A | a hell of a party (informal) | a rél ov a PÁR-ti | uma festança
+A | humongous (informal) | riu-MÂN-gâs | gigantesco, "enormão"
+A | That's a big deal. | dhéts a big díl | Isso é coisa grande / importante.

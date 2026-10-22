@@ -1,0 +1,60 @@
+@block dia-a-dia | Meu dia a dia: rotina, perguntas, elevador e pedidos | Da hora que você acorda até a aula da noite, com as frases que mais se repetem.
+## Minha rotina
+B | I wake up at 6:30. | ái uêik âp ét síks THÂR-ti | Acordo às 6h30.
+B | I take a shower and have breakfast. | ái têik a SHÁU-âr end rév BRÉK-fâst | Tomo banho e tomo café da manhã.
+B | I take the subway to work. | ái têik dhe SÂB-uêi tchu uârk | Pego o metrô para o trabalho.
+B | I start work at 9. | ái stárt uârk ét náin | Começo a trabalhar às 9.
+B | I have lunch at noon. | ái rév lânch ét nún | Almoço ao meio-dia.
+B | I leave work at 5. | ái lív uârk ét fáiv | Saio do trabalho às 5.
+B | I go to college at night. | ái gôu tchu KÓ-ledj ét náit | Vou para a faculdade à noite.
+B | I get home at 11. | ái guét rôum ét i-LÉ-ven | Chego em casa às 11.
+I | I usually grab a coffee on the way. | ái IÚ-ju-a-li gréb a KÓ-fi ón dhe uêi | Normalmente pego um café no caminho.
+I | My commute takes about an hour. | mái ko-MIÚT têiks a-BÁUT en ÁU-âr | Meu trajeto leva cerca de uma hora.
+I | On weekends, I sleep in and see Henrique. | ón UÍK-éndz, ái slíp in end sí en-RÍ-ki | No fim de semana, durmo até tarde e vejo o Henrique.
+A | My days are packed: work in the morning, college at night, and Netflix if I'm still awake. | mái dêiz ar pékt: uârk in dhe MÓR-nin, KÓ-ledj ét náit, end NÉT-fliks if áim stil a-UÊIK | Meus dias são lotados: trabalho de manhã, faculdade à noite e Netflix se eu ainda estiver acordada.
+A | I'm running on four hours of sleep today. | áim RÂ-nin ón fór ÁU-ârz ov slíp tu-DÊI | Estou funcionando com quatro horas de sono hoje.
+## Perguntas básicas (e respostas)
+B | How are you? — I'm good, thanks. And you? | ráu ar iu? áim gûd, thénks. end iu | Tudo bem? — Tudo, obrigada. E você?
+B | What time is it? — It's ten past nine. | uót táim iz it? its tén pést náin | Que horas são? — Nove e dez.
+B | Where's the bathroom? | uérz dhe BÉTH-rúm | Onde fica o banheiro?
+B | How much is this? | ráu mâtch iz dhis | Quanto custa isso?
+B | Can you help me? | ken iu rélp mi | Pode me ajudar?
+B | What does this mean? | uót dâz dhis mín | O que isso significa?
+B | How do you say "estágio" in English? | ráu du iu sêi es-TÁ-jiu in ÍN-glish | Como se diz "estágio" em inglês?
+I | Could you say that again, more slowly? | kûd iu sêi dhét a-GUÉN, mór SLÔU-li | Pode repetir mais devagar?
+I | What do you mean? | uót du iu mín | Como assim?
+I | Do you know where I can find…? | du iu nôu uér ái ken fáind | Você sabe onde eu encontro…?
+I | Is it far from here? | iz it fár from rír | É longe daqui?
+A | Sorry, I didn't catch your name. | SÓ-ri, ái DÍ-dent kétch iór nêim | Desculpe, não peguei seu nome.
+A | Would you happen to know if this place is open on Sundays? | uûd iu RÉ-pen tchu nôu if dhis plêis iz ÔU-pen ón SÂN-dêiz | Por acaso você sabe se aqui abre aos domingos?
+## Elevador (small talk)
+B | Good morning! | gûd MÓR-nin | Bom dia!
+B | Which floor? — Twelve, please. | uitch flór? tuélv, plíz | Qual andar? — Doze, por favor.
+B | Have a good day! | rév a gûd dêi | Tenha um bom dia!
+B | It's so hot today! | its sôu rót tu-DÊI | Está tão calor hoje!
+I | Happy Friday! | RÉ-pi FRÁI-dêi | Feliz sexta!
+I | Is it Monday already? | iz it MÂN-dêi ól-RÉ-di | Já é segunda?
+I | Any plans for the weekend? | É-ni plénz fór dhe UÍK-énd | Planos pro fim de semana?
+I | Are you in marketing too? | ar iu in MÁR-ke-tin tchú | Você também é do marketing?
+A | This elevator takes forever, doesn't it? | dhis É-le-vei-târ têiks fór-É-vâr, DÂ-zent it | Esse elevador demora uma eternidade, né?
+A | Hang in there, it's almost the weekend! | rén in dhér, its ÓL-mous dhe UÍK-énd | Aguenta firme, já é quase fim de semana!
+A | Well, this is my stop. Have a good one! | uél, dhis iz mái stóp. rév a gûd uân | Bom, é o meu andar. Até mais!
+## Pedir as coisas
+B | Can I have a coffee, please? | ken ái rév a KÓ-fi, plíz | Pode me ver um café, por favor?
+B | A glass of water, please. | a glés ov UÓ-târ, plíz | Um copo de água, por favor.
+B | Can I pay by card? | ken ái pêi bai kárd | Posso pagar no cartão?
+B | The check, please. | dhe tchék, plíz | A conta, por favor.
+I | Could I get a cappuccino to go? | kûd ái guét a ka-pu-TCHÍ-nou tchu gôu | Pode me ver um cappuccino para viagem?
+I | Can I borrow your pen? | ken ái BÓ-rou iór pén | Pode me emprestar sua caneta?
+I | Could you send me the file, please? | kûd iu sénd mi dhe fáil, plíz | Pode me mandar o arquivo, por favor?
+I | Can we split the bill? | ken uí split dhe bil | Podemos dividir a conta?
+A | Would you mind covering for me while I'm at the doctor? | uûd iu máind KÂ-ve-rin fór mi uáil áim ét dhe DÓK-târ | Você se importaria de me cobrir enquanto estou no médico?
+A | If it's not too much trouble, could you take a look at this? | if its nót tchu mâtch TRÂ-bou, kûd iu têik a lûk ét dhis | Se não for incômodo, pode dar uma olhada nisso?
+## No supermercado
+B | Where's the rice? | uérz dhe ráis | Onde fica o arroz?
+B | I need milk, eggs and bread. | ái níd milk, égz end bréd | Preciso de leite, ovos e pão.
+B | Do you have a bag? | du iu rév a bég | Tem sacola?
+I | Is this on sale? | iz dhis ón sêil | Isso está em promoção?
+I | Which aisle is the coffee in? | uitch áil iz dhe KÓ-fi in | Em qual corredor fica o café?
+I | Paper or plastic? — I brought my own bag. | PÊI-pâr ór PLÉS-tik? ái brót mái ôun bég | Papel ou plástico? — Trouxe minha sacola.
+A | Prices have gone through the roof lately. | PRÁI-siz rév gón thru dhe rúf LÊIT-li | Os preços dispararam ultimamente.

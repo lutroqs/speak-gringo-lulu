@@ -1,0 +1,72 @@
+@block sobre-mim | Sobre mim | Tudo o que você precisa para falar de você: idade, aniversário, família, namoro, estudos e trabalho.
+## Nome, idade e aniversário
+B | Hi, I'm Luisa. | rái, áim lu-Í-za | Oi, eu sou a Luisa.
+B | My name is Luisa. | mái nêim iz lu-Í-za | Meu nome é Luisa.
+B | Nice to meet you. | náis tchu MÍT iu | Prazer em te conhecer.
+B | I'm 25 years old. | áim TUÉN-ti fáiv írz ôuld | Tenho 25 anos.
+B | I'm twenty-five. | áim TUÉN-ti fáiv | Tenho vinte e cinco.
+B | I was born in 2000. | ái uóz BÓRN in tchú THÁU-zend | Nasci em 2000.
+B | I was born on November 21st, 2000. | ái uóz bórn ón nou-VÉM-bâr TUÉN-ti fârst, tchú THÁU-zend | Nasci em 21 de novembro de 2000.
+B | My birthday is on November 21st. | mái BÂRTH-dêi iz ón nou-VÉM-bâr TUÉN-ti fârst | Meu aniversário é em 21 de novembro.
+B | My birthday is next month! | mái BÂRTH-dêi iz nékst mânth | Meu aniversário é mês que vem!
+I | I'm turning 26 next month. | áim TÂR-nin TUÉN-ti síks nékst mânth | Vou fazer 26 no mês que vem.
+I | I'm a Scorpio. | áim a SKÓR-pi-ôu | Sou de Escorpião.
+I | I'm in my mid-twenties. | áim in mái mid TUÉN-tiz | Estou na metade dos vinte e poucos.
+A | I'm a Gen Z kid, born right at the turn of the millennium. | áim a djén ZÍ kid, bórn ráit ét dhe târn ov dhe mi-LÉ-ni-âm | Sou da geração Z, nascida bem na virada do milênio.
+A | I'm a November baby — Scorpio through and through. | áim a nou-VÉM-bâr BÊI-bi, SKÓR-pi-ôu thru end thru | Sou de novembro, escorpiana até o osso.
+## De onde eu sou
+B | I'm from Brazil. | áim from bra-ZÍL | Sou do Brasil.
+B | I'm Brazilian. | áim bra-ZÍ-li-an | Sou brasileira.
+B | I live in São Paulo. | ái liv in SÃO PÁU-lu | Moro em São Paulo.
+B | I speak Portuguese and a little English. | ái spík pór-tchu-GÍZ end a LÍ-tou ÍN-glish | Falo português e um pouco de inglês.
+I | I've lived in São Paulo my whole life. | áiv livd in são PÁU-lu mái RÔUL láif | Morei em São Paulo a vida toda.
+I | São Paulo is huge, chaotic and full of good food. | são PÁU-lu iz RIÚDJ, kei-Ó-tik end fûl ov gûd fúd | São Paulo é enorme, caótica e cheia de comida boa.
+A | I'm a São Paulo girl at heart — I can't live without the city's energy. | áim a são PÁU-lu gârl ét RÁRT, áiként liv ui-DHÁUT dhe SÍ-tiz É-nâr-dji | Sou paulistana de coração, não vivo sem a energia da cidade.
+## Família
+B | I'm an only child. | áim en ÔUN-li tcháild | Sou filha única.
+B | I don't have brothers or sisters. | ái dôunt rév BRÂ-dhârz ór SÍS-târz | Não tenho irmãos nem irmãs.
+B | I live with my parents. | ái liv uidh mái PÉ-rents | Moro com meus pais.
+B | My mom's name is… / My dad's name is… | mái mámz nêim iz / mái dédz nêim iz | O nome da minha mãe é… / do meu pai é…
+I | Being an only child, I'm really close to my parents. | BÍ-in en ÔUN-li tcháild, áim RÍ-li klôus tchu mái PÉ-rents | Por ser filha única, sou muito próxima dos meus pais.
+I | People think only children are spoiled, but that's a myth! | PÍ-pou think ÔUN-li TCHÍL-dren ar spóild, bât dhéts a míth | As pessoas acham que filho único é mimado, mas isso é mito!
+A | Growing up as an only child taught me to be independent. | GRÔU-in âp éz en ÔUN-li tcháild tót mi tchu bi in-di-PÉN-dent | Crescer como filha única me ensinou a ser independente.
+A | My cousins are basically my siblings. | mái KÂ-zinz ar BÊI-sik-li mái SÍ-blinz | Meus primos são basicamente meus irmãos.
+## Namoro
+B | I have a boyfriend. | ái rév a BÓI-frend | Tenho namorado.
+B | His name is Henrique. | riz nêim iz en-RÍ-ki | O nome dele é Henrique.
+B | I'm dating Henrique. | áim DÊI-tin en-RÍ-ki | Estou namorando o Henrique.
+I | We've been together for… years. | uív bín tu-GUÉ-dhâr fór… írz | Estamos juntos há… anos.
+I | Henrique and I met at… | en-RÍ-ki end ái mét ét… | O Henrique e eu nos conhecemos em/no…
+I | I'm in a relationship. | áim in a ri-LÊI-shan-ship | Estou num relacionamento.
+A | Henrique is my partner in crime. | en-RÍ-ki iz mái PÁRT-nâr in kráim | O Henrique é meu parceiro de tudo.
+A | We're pretty serious — we're even talking about moving in together. | uír PRÍ-ti SÍ-ri-âs, uír Í-ven TÓ-kin a-BÁUT MÚ-vin in tu-GUÉ-dhâr | A gente está bem sério, até falando em morar junto.
+## Estudos
+B | I'm a student. | áim a STÚ-dent | Sou estudante.
+B | I study Business Administration. | ái STÂ-di BÍZ-nes ad-mi-nis-TRÊI-shan | Estudo Administração.
+B | I'm in college. | áim in KÓ-ledj | Estou na faculdade.
+I | I'm majoring in Business Administration. | áim MÊI-djâ-rin in BÍZ-nes ad-mi-nis-TRÊI-shan | Faço graduação em Administração.
+I | I'm in my … year of college. | áim in mái … ír ov KÓ-ledj | Estou no … ano da faculdade.
+I | I take classes at night and work during the day. | ái têik KLÉ-siz ét náit end uârk DIÚ-rin dhe dêi | Estudo à noite e trabalho de dia.
+A | I'm especially interested in operations and marketing. | áim is-PÉ-sha-li ÍN-tres-tid in ó-pe-RÊI-shanz end MÁR-ke-tin | Tenho interesse especial em operações e marketing.
+A | Juggling college and an internship is tough, but it's paying off. | DJÂ-glin KÓ-ledj end en ÍN-târn-ship iz tâf, bât its PÊI-in óf | Conciliar faculdade e estágio é difícil, mas está valendo a pena.
+## Trabalho e carreira
+B | I'm an intern. | áim en ÍN-târn | Sou estagiária.
+B | I work in operations. | ái uârk in ó-pe-RÊI-shanz | Trabalho em operações.
+B | I talk to clients every day. | ái tók tchu KLÁI-ents É-vri dêi | Falo com clientes todos os dias.
+I | I'm an Operations Intern. | áim en ó-pe-RÊI-shanz ÍN-târn | Sou Estagiária de Operações.
+I | I handle customer relations and administrative processes. | ái RÉN-dou KÂS-to-mâr ri-LÊI-shanz end ad-MÍ-nis-trei-tiv PRÓ-se-siz | Cuido do relacionamento com clientes e de processos administrativos.
+I | I have experience in trade marketing and internal marketing. | ái rév iks-PÍ-ri-ens in TRÊID már-ke-tin end in-TÂR-nou MÁR-ke-tin | Tenho experiência em trade marketing e marketing interno.
+I | I'd like to get a full-time job. | áid láik tchu guét a FÛL-táim djób | Quero conseguir um emprego efetivo.
+A | My goal is to get hired as a full-time employee — CLT, as we say in Brazil. | mái gôul iz tchu guét RÁIRD éz a fûl-táim em-PLÓI-i, sí-él-TÍ, éz uí sêi in bra-ZÍL | Minha meta é ser efetivada, CLT, como dizemos no Brasil.
+A | I'm hoping my internship turns into a full-time position. | áim RÔU-pin mái ÍN-târn-ship târnz ÍN-tchu a fûl-táim po-ZÍ-shan | Espero que meu estágio vire uma vaga efetiva.
+A | I'd love to work for an international company someday. | áid lâv tchu uârk fór en in-târ-NÉ-sha-nou KÂM-pa-ni SÂM-dêi | Adoraria trabalhar numa empresa internacional um dia.
+## Gostos e jeito de ser
+B | I like music, movies and food. | ái láik MIÚ-zik, MÚ-viz end fúd | Gosto de música, filmes e comida.
+B | I love Netflix. | ái lâv NÉT-fliks | Amo Netflix.
+B | I'm friendly and organized. | áim FRÉND-li end ÓR-ga-naizd | Sou simpática e organizada.
+I | I'm a people person. | áim a PÍ-pou PÂR-son | Sou uma pessoa que gosta de gente.
+I | I'm really into series. | áim RÍ-li ÍN-tchu SÍ-riz | Curto muito séries.
+A | I'm the kind of person who plans everything — and then improvises anyway. | áim dhe káind ov PÂR-son hu plénz É-vri-thin, end dhen ÍM-pro-vai-ziz É-ni-uêi | Sou do tipo que planeja tudo e depois improvisa mesmo assim.
+## Apresentação completa (leia em voz alta)
+I | Hi! I'm Luisa, I'm 25 and I'm from São Paulo. I study Business Administration and I'm an Operations Intern. I'm an only child, and I'm dating Henrique. | rái! áim lu-Í-za, áim TUÉN-ti fáiv end áim from são PÁU-lu. ái STÂ-di BÍZ-nes ad-mi-nis-TRÊI-shan end áim en ó-pe-RÊI-shanz ÍN-târn. áim en ÔUN-li tcháild, end áim DÊI-tin en-RÍ-ki | Oi! Sou a Luisa, tenho 25 anos e sou de São Paulo. Estudo Administração e sou Estagiária de Operações. Sou filha única e namoro o Henrique.
+A | I'm a Business Administration student and Operations Intern with a background in trade and internal marketing. I love working with people and making processes run smoothly, and my next step is a full-time role. | áim a BÍZ-nes ad-mi-nis-TRÊI-shan STÚ-dent end ó-pe-RÊI-shanz ÍN-târn uidh a BÉK-graund in trêid end in-TÂR-nou MÁR-ke-tin. ái lâv UÂR-kin uidh PÍ-pou end MÊI-kin PRÓ-se-siz rân SMÚDH-li, end mái nékst stép iz a fûl-táim rôul | Sou estudante de Administração e Estagiária de Operações com experiência em trade e marketing interno. Adoro trabalhar com pessoas e fazer processos andarem bem, e meu próximo passo é uma vaga efetiva.

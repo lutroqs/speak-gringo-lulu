@@ -1,0 +1,63 @@
+@block anos-datas | Anos e datas: passado, presente e futuro | Regra de ouro: anos de 4 dígitos são lidos em dois pares (19 | 90 = nineteen ninety). As exceções são os anos 2000 a 2009 e os "redondos".
+## Como ler os anos (regras)
+B | 1990 — nineteen ninety | náin-TÍN NÁIN-ti | 1990 (dois pares: 19 + 90)
+B | 1985 — nineteen eighty-five | náin-TÍN ÊI-ti fáiv | 1985
+B | 1999 — nineteen ninety-nine | náin-TÍN NÁIN-ti náin | 1999
+B | 2000 — two thousand | tchú THÁU-zend | 2000 (ano em que você nasceu)
+B | 2001 — two thousand (and) one | tchú THÁU-zend end uân | 2001
+B | 2008 — two thousand (and) eight | tchú THÁU-zend end êit | 2008
+I | 1905 — nineteen oh five | náin-TÍN ôu fáiv | 1905 (o zero vira "oh")
+I | 1800 — eighteen hundred | êi-TÍN RÂN-dred | 1800 (anos redondos usam hundred)
+I | 1500 — fifteen hundred | fif-TÍN RÂN-dred | 1500
+I | 1066 — ten sixty-six | tén SÍKS-ti síks | 1066
+I | 2010 — twenty ten | TUÉN-ti tén | 2010 (ou two thousand ten)
+I | 2014 — twenty fourteen | TUÉN-ti fór-TÍN | 2014 (Copa no Brasil)
+I | 2020 — twenty twenty | TUÉN-ti TUÉN-ti | 2020
+I | 2026 — twenty twenty-six | TUÉN-ti TUÉN-ti síks | 2026 (ano atual)
+I | 2030 — twenty thirty | TUÉN-ti THÂR-ti | 2030
+A | 2050 — twenty fifty | TUÉN-ti FÍF-ti | 2050
+A | 2100 — twenty-one hundred | TUÉN-ti uân RÂN-dred | 2100
+A | 500 BC / AD 500 | fáiv RÂN-dred bí-SÍ / êi-DÍ fáiv RÂN-dred | 500 a.C. / 500 d.C.
+## Décadas e séculos
+B | the 80s — the eighties | dhi ÊI-tiz | os anos 80
+B | the 90s — the nineties | dhe NÁIN-tiz | os anos 90
+I | the 2000s — the two thousands / the noughties (Reino Unido) | dhe tchú THÁU-zendz / dhe NÓ-tiz | os anos 2000
+I | the 2010s — the twenty-tens | dhe TUÉN-ti ténz | os anos 2010
+I | the 21st century — the twenty-first century | dhe TUÉN-ti fârst SÉN-tcha-ri | século XXI
+A | the late 90s / the early 2000s | dhe lêit NÁIN-tiz / dhi ÂR-li tchú THÁU-zendz | final dos anos 90 / início dos 2000
+A | the turn of the century | dhe târn ov dhe SÉN-tcha-ri | a virada do século
+## Datas (EUA x Reino Unido)
+B | November 21st | nou-VÉM-bâr TUÉN-ti fârst | 21 de novembro (EUA: mês + dia)
+B | the 21st of November | dhe TUÉN-ti fârst ov nou-VÉM-bâr | 21 de novembro (Reino Unido)
+I | 11/21/2000 (EUA) = 21/11/2000 (Brasil) | | Nos EUA o mês vem primeiro na data escrita
+I | November 21st, 2000 — November twenty-first, two thousand | nou-VÉM-bâr TUÉN-ti fârst, tchú THÁU-zend | data completa do seu nascimento
+I | What's the date today? — It's October 21st. | uóts dhe dêit tu-DÊI? its ok-TÔU-bâr TUÉN-ti fârst | Que dia é hoje? — 21 de outubro.
+A | Let's write dates as "21 Nov 2026" in international emails to avoid confusion. | léts ráit dêits éz TUÉN-ti fârst nou-VÉM-bâr | Escreva "21 Nov 2026" em emails internacionais para evitar confusão.
+## Preposições de tempo
+B | in 2000 / in November | in tchú THÁU-zend / in nou-VÉM-bâr | em 2000 / em novembro (ano e mês: in)
+B | on November 21st / on Monday | ón nou-VÉM-bâr TUÉN-ti fârst / ón MÂN-dêi | dia e data: on
+B | at 8 p.m. | ét êit pí-ÉM | horas: at
+I | in the 90s / in the morning | in dhe NÁIN-tiz / in dhe MÓR-nin | décadas e partes do dia: in
+I | at night / at the weekend (Reino Unido) / on the weekend (EUA) | ét náit | à noite / no fim de semana
+## Passado
+B | I was born in 2000. | ái uóz bórn in tchú THÁU-zend | Nasci em 2000.
+B | I started college in 2023. | ái STÁR-tid KÓ-ledj in TUÉN-ti TUÉN-ti thrí | Comecei a faculdade em 2023.
+B | Last year I worked in trade marketing. | lést ír ái uârkt in trêid MÁR-ke-tin | Ano passado trabalhei em trade marketing.
+I | In 2014, Brazil hosted the World Cup. | in TUÉN-ti fór-TÍN, bra-ZÍL RÔUS-tid dhe uârld kâp | Em 2014, o Brasil sediou a Copa.
+I | Two years ago, I met Henrique. | tchú írz a-GÔU, ái mét en-RÍ-ki | Há dois anos conheci o Henrique. (ajuste ao seu)
+I | Back in 2020, everyone was working from home. | bék in TUÉN-ti TUÉN-ti, É-vri-uân uóz UÂR-kin from rôum | Em 2020, todo mundo estava trabalhando de casa.
+A | When I was a kid in the 2000s, I used to watch cartoons every morning. | uén ái uóz a kid in dhe tchú THÁU-zendz, ái iúzd tchu uótch kar-TÚNZ É-vri MÓR-nin | Quando era criança nos anos 2000, eu assistia desenho toda manhã.
+A | I've been working since 2024. | áiv bín UÂR-kin sins TUÉN-ti TUÉN-ti fór | Trabalho desde 2024.
+## Presente
+B | It's 2026. | its TUÉN-ti TUÉN-ti síks | Estamos em 2026.
+B | This year I'm an intern. | dhis ír áim en ÍN-târn | Este ano sou estagiária.
+I | I'm 25 now, but I'll be 26 on November 21st. | áim TUÉN-ti fáiv náu, bât áil bi TUÉN-ti síks ón nou-VÉM-bâr TUÉN-ti fârst | Tenho 25 agora, mas vou fazer 26 em 21 de novembro.
+I | This month is busy at work. | dhis mânth iz BÍ-zi ét uârk | Este mês está corrido no trabalho.
+A | As of 2026, I'm in my final years of college. | éz ov TUÉN-ti TUÉN-ti síks, áim in mái FÁI-nou írz ov KÓ-ledj | Em 2026, estou nos anos finais da faculdade. (ajuste ao seu)
+## Futuro
+B | Next year I want a full-time job. | nékst ír ái uónt a fûl-táim djób | Ano que vem quero um emprego efetivo.
+B | I'll graduate in 2027. | áil GRÉ-dju-eit in TUÉN-ti TUÉN-ti SÉ-ven | Vou me formar em 2027. (ajuste ao seu)
+I | By 2030, I want to speak English fluently. | bai TUÉN-ti THÂR-ti, ái uónt tchu spík ÍN-glish FLÚ-ent-li | Até 2030, quero falar inglês fluente.
+I | In five years, I'll be 30. | in fáiv írz, áil bi THÂR-ti | Daqui a cinco anos, terei 30.
+A | By the time I'm 30, I'll have been working in operations for almost a decade. | bai dhe táim áim THÂR-ti, áil rév bín UÂR-kin in ó-pe-RÊI-shanz fór ÓL-mous a DÉ-kêid | Quando tiver 30, vou estar trabalhando em operações há quase uma década.
+A | Henrique and I are planning to travel abroad in 2027. | en-RÍ-ki end ái ar PLÉ-nin tchu TRÉ-vou a-BRÓD in TUÉN-ti TUÉN-ti SÉ-ven | O Henrique e eu planejamos viajar para fora em 2027.

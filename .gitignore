@@ -1,3 +1,4 @@
 build/print*.html
+build/app_artifact.html
 __pycache__/
 .vercel

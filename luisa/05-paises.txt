@@ -1,0 +1,71 @@
+@block paises | Países, nacionalidades e idiomas | Nome do país, pronúncia e nacionalidade. Países e nacionalidades sempre com letra maiúscula.
+## América
+B | Brazil — Brazilian | bra-ZÍL / bra-ZÍ-li-an | Brasil — brasileiro(a)
+B | the United States (the US) — American | dhe iu-NÁI-tid STÊITS / a-MÉ-ri-kan | Estados Unidos — americano(a)
+B | Canada — Canadian | KÉ-na-da / ka-NÊI-di-an | Canadá — canadense
+B | Mexico — Mexican | MÉK-si-kou / MÉK-si-kan | México — mexicano(a)
+B | Argentina — Argentinian | ar-djen-TÍ-na / ar-djen-TÍ-ni-an | Argentina — argentino(a)
+B | Chile — Chilean | TCHÍ-li / TCHÍ-li-an | Chile — chileno(a)
+I | Colombia — Colombian | ko-LÂM-bi-a / ko-LÂM-bi-an | Colômbia — colombiano(a)
+I | Peru — Peruvian | pe-RÚ / pe-RÚ-vi-an | Peru — peruano(a)
+I | Uruguay — Uruguayan | IÚ-ru-guai / iu-ru-GUÁI-an | Uruguai — uruguaio(a)
+I | Paraguay — Paraguayan | PÉ-ra-guai / pe-ra-GUÁI-an | Paraguai — paraguaio(a)
+I | Venezuela — Venezuelan | ve-ne-ZUÊI-la / ve-ne-ZUÊI-lan | Venezuela — venezuelano(a)
+I | Bolivia — Bolivian | bo-LÍ-vi-a / bo-LÍ-vi-an | Bolívia — boliviano(a)
+I | Ecuador — Ecuadorian | É-kua-dór / e-kua-DÓ-ri-an | Equador — equatoriano(a)
+I | Cuba — Cuban | KIÚ-ba / KIÚ-ban | Cuba — cubano(a)
+A | Jamaica — Jamaican | dja-MÊI-ka / dja-MÊI-kan | Jamaica — jamaicano(a)
+A | Costa Rica — Costa Rican | KÔUS-ta RÍ-ka / KÔUS-ta RÍ-kan | Costa Rica — costarriquenho(a)
+## Europa
+B | England — English | ÍN-glend / ÍN-glish | Inglaterra — inglês(a)
+B | the United Kingdom (the UK) — British | dhe iu-NÁI-tid KÍN-dom / BRÍ-tish | Reino Unido — britânico(a)
+B | Portugal — Portuguese | PÓR-tchu-gou / pór-tchu-GÍZ | Portugal — português(a)
+B | Spain — Spanish | spêin / SPÉ-nish | Espanha — espanhol(a)
+B | France — French | fréns / frénch | França — francês(a)
+B | Italy — Italian | Í-ta-li / i-TÉ-li-an | Itália — italiano(a)
+B | Germany — German | DJÂR-ma-ni / DJÂR-man | Alemanha — alemão(ã)
+I | Ireland — Irish | ÁIR-lend / ÁI-rish | Irlanda — irlandês(a)
+I | Scotland — Scottish | SKÓT-lend / SKÓ-tish | Escócia — escocês(a)
+I | Wales — Welsh | uêilz / uélsh | País de Gales — galês(a)
+I | the Netherlands — Dutch | dhe NÉ-dhâr-lendz / dâtch | Holanda / Países Baixos — holandês(a)
+I | Belgium — Belgian | BÉL-djâm / BÉL-djan | Bélgica — belga
+I | Switzerland — Swiss | SUÍT-sâr-lend / suís | Suíça — suíço(a)
+I | Sweden — Swedish | SUÍ-den / SUÍ-dish | Suécia — sueco(a)
+I | Norway — Norwegian | NÓR-uêi / nór-UÍ-djan | Noruega — norueguês(a)
+I | Denmark — Danish | DÉN-mark / DÊI-nish | Dinamarca — dinamarquês(a)
+I | Greece — Greek | grís / grík | Grécia — grego(a)
+I | Poland — Polish | PÔU-lend / PÔU-lish | Polônia — polonês(a)
+A | Finland — Finnish | FÍN-lend / FÍ-nish | Finlândia — finlandês(a)
+A | Austria — Austrian | ÓS-tri-a / ÓS-tri-an | Áustria — austríaco(a)
+A | Ukraine — Ukrainian | iu-KRÊIN / iu-KRÊI-ni-an | Ucrânia — ucraniano(a)
+A | Russia — Russian | RÂ-sha / RÂ-shan | Rússia — russo(a)
+## Ásia e Oriente Médio
+B | China — Chinese | TCHÁI-na / tchai-NÍZ | China — chinês(a)
+B | Japan — Japanese | dja-PÉN / dja-pa-NÍZ | Japão — japonês(a)
+B | South Korea — South Korean | sáuth ko-RÍ-a / ko-RÍ-an | Coreia do Sul — sul-coreano(a)
+B | India — Indian | ÍN-di-a / ÍN-di-an | Índia — indiano(a)
+I | Thailand — Thai | TÁI-lend / tái | Tailândia — tailandês(a)
+I | Vietnam — Vietnamese | vi-et-NÁM / vi-et-na-MÍZ | Vietnã — vietnamita
+I | Indonesia — Indonesian | in-do-NÍ-zha / in-do-NÍ-zhan | Indonésia — indonésio(a)
+I | the Philippines — Filipino | dhe FÍ-li-pínz / fi-li-PÍ-nou | Filipinas — filipino(a)
+I | Israel — Israeli | ÍZ-rei-el / iz-RÊI-li | Israel — israelense
+I | Turkey (Türkiye) — Turkish | TÂR-ki / TÂR-kish | Turquia — turco(a)
+A | Saudi Arabia — Saudi | SÁU-di a-RÊI-bi-a / SÁU-di | Arábia Saudita — saudita
+A | the United Arab Emirates (UAE) — Emirati | dhe iu-NÁI-tid É-rab É-mi-rets / e-mi-RÁ-ti | Emirados Árabes — emiradense
+## África e Oceania
+B | Australia — Australian | os-TRÊI-li-a / os-TRÊI-li-an | Austrália — australiano(a)
+B | New Zealand — New Zealander (Kiwi) | niú ZÍ-lend / niú ZÍ-len-dâr (KÍ-uí) | Nova Zelândia — neozelandês(a)
+B | South Africa — South African | sáuth É-fri-ka / sáuth É-fri-kan | África do Sul — sul-africano(a)
+I | Egypt — Egyptian | Í-djipt / i-DJÍP-shan | Egito — egípcio(a)
+I | Morocco — Moroccan | mo-RÓ-kou / mo-RÓ-kan | Marrocos — marroquino(a)
+I | Nigeria — Nigerian | nai-DJÍ-ri-a / nai-DJÍ-ri-an | Nigéria — nigeriano(a)
+I | Angola — Angolan | en-GÔU-la / en-GÔU-lan | Angola — angolano(a)
+I | Mozambique — Mozambican | mou-zem-BÍK / mou-zem-BÍ-kan | Moçambique — moçambicano(a)
+A | Kenya — Kenyan | KÉ-nia / KÉ-nian | Quênia — queniano(a)
+## Frases com países
+B | Where are you from? — I'm from Brazil. | uér ar iu from? áim from bra-ZÍL | De onde você é? — Do Brasil.
+B | I want to visit Canada. | ái uónt tchu VÍ-zit KÉ-na-da | Quero visitar o Canadá.
+I | Have you ever been to Portugal? | rév iu É-vâr bín tchu PÓR-tchu-gou | Você já foi a Portugal?
+I | Brazilians speak Portuguese, not Spanish! | bra-ZÍ-li-anz spík pór-tchu-GÍZ, nót SPÉ-nish | Brasileiros falam português, não espanhol!
+A | I'd love to do an exchange program in Ireland. | áid lâv tchu du en iks-TCHÊINDJ PRÔU-grem in ÁIR-lend | Adoraria fazer intercâmbio na Irlanda.
+A | Our company has offices in twelve countries. | áuar KÂM-pa-ni rez Ó-fi-siz in tuélv KÂN-triz | Nossa empresa tem escritórios em doze países.

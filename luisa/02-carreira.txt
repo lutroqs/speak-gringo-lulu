@@ -1,0 +1,81 @@
+@block carreira | Carreira: estágio, CV, LinkedIn e entrevista | O inglês do seu dia a dia de estagiária de operações e do caminho até a vaga CLT.
+## Palavras do estágio
+B | intern / internship | ÍN-târn / ÍN-târn-ship | estagiária / estágio
+B | job / position / role | djób / po-ZÍ-shan / rôul | emprego / vaga / função
+B | boss / manager | bós / MÉ-ni-djâr | chefe / gestor(a)
+B | coworker / colleague | KÔU-uâr-kâr / KÓ-lig | colega de trabalho
+B | team | tím | equipe
+B | client / customer | KLÁI-ent / KÂS-to-mâr | cliente
+B | task | tésk | tarefa
+B | meeting | MÍ-tin | reunião
+B | deadline | DÉD-láin | prazo
+B | report | ri-PÓRT | relatório
+B | spreadsheet | SPRÉD-shít | planilha
+B | salary | SÉ-la-ri | salário
+I | full-time / part-time | fûl-táim / párt-táim | período integral / meio período
+I | permanent employee (CLT) | PÂR-ma-nent em-PLÓI-i | funcionário efetivo (CLT)
+I | to get hired / to be hired full-time | tchu guét RÁIRD | ser contratada / ser efetivada
+I | benefits | BÉ-ne-fits | benefícios
+I | meal voucher / food allowance | míl VÁU-tchâr / fúd a-LÁU-ens | vale-refeição / vale-alimentação
+I | health insurance | rélth in-SHÚ-rens | plano de saúde
+I | paid vacation | pêid vei-KÊI-shan | férias remuneradas
+I | probation period | prou-BÊI-shan PÍ-ri-od | período de experiência
+A | thirteenth-month salary | thâr-TÍNTH mânth SÉ-la-ri | 13º salário
+A | severance pay | SÉ-ve-rens pêi | verbas rescisórias
+A | career path / career growth | ka-RÍR péth / ka-RÍR grôuth | plano de carreira / crescimento
+## Operações e relacionamento com clientes
+B | I answer client emails. | ái ÉN-sâr KLÁI-ent Í-mêilz | Respondo emails de clientes.
+B | I update the spreadsheets. | ái âp-DÊIT dhe SPRÉD-shíts | Atualizo as planilhas.
+B | I help the team. | ái rélp dhe tím | Ajudo a equipe.
+I | I handle customer requests and complaints. | ái RÉN-dou KÂS-to-mâr ri-KUÉSTS end kom-PLÊINTS | Cuido de solicitações e reclamações de clientes.
+I | I follow up on orders and deliveries. | ái FÓ-lou âp ón ÓR-dârz end di-LÍ-ve-riz | Acompanho pedidos e entregas.
+I | I register invoices and payments in the system. | ái RÉ-djis-târ ÍN-vói-siz end PÊI-ments in dhe SÍS-tem | Registro notas fiscais e pagamentos no sistema.
+I | I organize documents and contracts. | ái ÓR-ga-naiz DÓ-kiu-ments end KÓN-trékts | Organizo documentos e contratos.
+I | I schedule meetings with suppliers. | ái SKÉ-djul MÍ-tinz uidh sa-PLÁI-ârz | Agendo reuniões com fornecedores.
+A | I'm the first point of contact for our key accounts. | áim dhe fârst póint ov KÓN-tékt fór áuar kí a-KÁUNTS | Sou o primeiro contato das nossas contas principais.
+A | I streamlined our onboarding process for new clients. | ái STRÍM-láind áuar ÓN-bór-din PRÓ-ses fór niú KLÁI-ents | Simplifiquei nosso processo de entrada de novos clientes.
+A | I keep track of KPIs like response time and customer satisfaction. | ái kíp trék ov kêi-pí-ÁIZ láik ri-SPÓNS táim end KÂS-to-mâr sé-tis-FÉK-shan | Acompanho indicadores como tempo de resposta e satisfação do cliente.
+A | I escalate critical issues to my manager. | ái ÉS-ka-leit KRÍ-ti-kou Í-shuz tchu mái MÉ-ni-djâr | Escalo problemas críticos para minha gestora.
+## Trade marketing e marketing interno
+I | point of sale (POS) | póint ov SÊIL | ponto de venda (PDV)
+I | shelf / shelf space | shélf / shélf spêis | gôndola / espaço na prateleira
+I | display / in-store display | dis-PLÊI | expositor / display na loja
+I | merchandising | MÂR-tchan-dai-zin | merchandising
+I | promoter | pro-MÔU-târ | promotor(a)
+I | sell-out / sell-in | SÉL-áut / SÉL-in | venda ao consumidor / venda à loja
+I | campaign | kém-PÊIN | campanha
+I | employee engagement | em-PLÓI-i en-GUÊIDJ-ment | engajamento dos funcionários
+I | internal communication | in-TÂR-nou ko-miu-ni-KÊI-shan | comunicação interna
+I | newsletter | NIÚZ-lé-târ | informativo
+A | I supported trade marketing campaigns at the point of sale. | ái sa-PÓR-tid TRÊID már-ke-tin kém-PÊINZ ét dhe póint ov sêil | Apoiei campanhas de trade marketing no ponto de venda.
+A | I created internal campaigns to boost employee engagement. | ái kri-ÊI-tid in-TÂR-nou kém-PÊINZ tchu búst em-PLÓI-i en-GUÊIDJ-ment | Criei campanhas internas para aumentar o engajamento dos funcionários.
+A | I tracked sell-out data and in-store execution. | ái trékt SÉL-áut DÊI-ta end in-STÓR ek-se-KIÚ-shan | Acompanhei dados de sell-out e execução nas lojas.
+## CV e LinkedIn
+I | Operations Intern — Customer Relations & Administrative Processes | ó-pe-RÊI-shanz ÍN-târn, KÂS-to-mâr ri-LÊI-shanz end ad-MÍ-nis-trei-tiv PRÓ-se-siz | Estagiária de Operações — Relacionamento com Clientes e Processos Administrativos
+I | Bachelor's in Business Administration (in progress) | BÉ-tcha-lârz in BÍZ-nes ad-mi-nis-TRÊI-shan | Bacharelado em Administração (em andamento)
+I | Skills: Excel, customer service, process organization, communication | skilz: ÉK-sel, KÂS-to-mâr SÂR-vis, PRÓ-ses ór-ga-ni-ZÊI-shan, ko-miu-ni-KÊI-shan | Competências: Excel, atendimento, organização de processos, comunicação
+I | Languages: Portuguese (native), English (intermediate) | LÉN-guí-djiz: pór-tchu-GÍZ (NÊI-tiv), ÍN-glish (in-târ-MÍ-di-et) | Idiomas: português (nativo), inglês (intermediário)
+A | Headline: Operations Intern · Customer Relations · Trade & Internal Marketing · Business Administration Student | RÉD-láin: ó-pe-RÊI-shanz ÍN-târn, KÂS-to-mâr ri-LÊI-shanz, trêid end in-TÂR-nou MÁR-ke-tin, BÍZ-nes ad-mi-nis-TRÊI-shan STÚ-dent | Título do LinkedIn
+A | About: Business Administration student with hands-on experience in operations, customer relations, trade marketing and internal marketing. I enjoy solving problems, organizing processes and building strong relationships with clients. Currently looking for a full-time opportunity. | (texto longo: ouça frase a frase no app) | Sobre: estudante de Administração com experiência prática em operações, relacionamento com clientes, trade e marketing interno. Gosto de resolver problemas, organizar processos e construir boas relações com clientes. Buscando uma vaga efetiva.
+A | Managed 50+ client requests per week, keeping response time under 24 hours. | MÉ-nidjd FÍF-ti plâs KLÁI-ent ri-KUÉSTS pâr uík, KÍ-pin ri-SPÓNS táim ÂN-dâr TUÉN-ti fór ÁU-ârz | Gerenciei mais de 50 solicitações por semana, com resposta em até 24h. (troque pelos seus números)
+A | Open to work: full-time roles in operations and marketing. | ÔU-pen tchu uârk: fûl-táim rôulz in ó-pe-RÊI-shanz end MÁR-ke-tin | Aberta a oportunidades: vagas efetivas em operações e marketing.
+## Entrevista: perguntas e respostas da Luisa
+I | Tell me about yourself. | tél mi a-BÁUT iór-SÉLF | Fale sobre você.
+I | I'm a Business Administration student and I currently work as an Operations Intern, handling customer relations and administrative processes. | áim a BÍZ-nes ad-mi-nis-TRÊI-shan STÚ-dent end ái KÂ-rent-li uârk éz en ó-pe-RÊI-shanz ÍN-târn, RÉND-lin KÂS-to-mâr ri-LÊI-shanz end ad-MÍ-nis-trei-tiv PRÓ-se-siz | Resposta: sou estudante de Administração e trabalho como Estagiária de Operações…
+I | Why do you want this job? | uái du iu uónt dhis djób | Por que você quer esta vaga?
+A | Because it combines what I do best — organizing processes and taking care of clients — with real room to grow. | bi-KÓZ it kom-BÁINZ uót ái du bést, ór-ga-NÁI-zin PRÓ-se-siz end TÊI-kin kér ov KLÁI-ents, uidh ríl rúm tchu grôu | Porque une o que faço de melhor, organizar processos e cuidar de clientes, com espaço real para crescer.
+I | What are your strengths? | uót ar iór STRÉNGTHS | Quais são seus pontos fortes?
+A | I'm organized, I communicate clearly, and I stay calm with difficult clients. | áim ÓR-ga-naizd, ái ko-MIÚ-ni-keit KLÍR-li, end ái stêi kálm uidh DÍ-fi-kâlt KLÁI-ents | Sou organizada, me comunico com clareza e mantenho a calma com clientes difíceis.
+I | What is your biggest weakness? | uót iz iór BÍ-guest UÍK-nes | Qual seu maior ponto fraco?
+A | Sometimes I take on too much, so I've started prioritizing my tasks every morning. | SÂM-táimz ái têik ón tchu mâtch, sôu áiv STÁR-tid prai-Ó-ri-tai-zin mái tésks É-vri MÓR-nin | Às vezes assumo demais, então comecei a priorizar as tarefas toda manhã.
+I | Where do you see yourself in five years? | uér du iu sí iór-SÉLF in fáiv írz | Onde você se vê em 5 anos?
+A | Leading an operations team, ideally in an international company. | LÍ-din en ó-pe-RÊI-shanz tím, ai-DÍ-a-li in en in-târ-NÉ-sha-nou KÂM-pa-ni | Liderando um time de operações, de preferência numa empresa internacional.
+I | Tell me about a difficult client. | tél mi a-BÁUT a DÍ-fi-kâlt KLÁI-ent | Conte sobre um cliente difícil.
+A | A client was upset about a late delivery. I listened, tracked the order, gave him a clear deadline and followed up until it arrived. He renewed his contract. | a KLÁI-ent uóz âp-SÉT a-BÁUT a lêit di-LÍ-ve-ri. ái LÍ-send, trékt dhi ÓR-dâr, gêiv rim a klír DÉD-láin end FÓ-loud âp ân-TÍL it a-RÁIVD. ri ri-NIÚD riz KÓN-trékt | Um cliente estava chateado com uma entrega atrasada. Escutei, rastreei o pedido, dei um prazo claro e acompanhei até chegar. Ele renovou o contrato.
+I | Do you have any questions for us? | du iu rév É-ni KUÉS-tchanz fór âs | Você tem alguma pergunta para nós?
+A | What does success look like in this role after the first six months? | uót dâz sak-SÉS lûk láik in dhis rôul ÉF-târ dhe fârst síks mânths | Como seria sucesso nesta função depois dos primeiros seis meses?
+## Pedir a efetivação (CLT)
+I | I'd like to talk about my future here. | áid láik tchu tók a-BÁUT mái FIÚ-tchâr rír | Gostaria de conversar sobre meu futuro aqui.
+I | Is there a chance I could be hired full-time? | iz dhér a tchéns ái kûd bi RÁIRD fûl-táim | Existe chance de eu ser efetivada?
+A | My internship ends in March, and I'd love to stay on as a full-time employee. | mái ÍN-târn-ship éndz in márch, end áid lâv tchu stêi ón éz a fûl-táim em-PLÓI-i | Meu estágio termina em março e eu adoraria continuar como efetiva.
+A | What would I need to show to be considered for a permanent position? | uót uûd ái níd tchu shôu tchu bi kon-SÍ-dârd fór a PÂR-ma-nent po-ZÍ-shan | O que eu precisaria mostrar para ser considerada para uma vaga efetiva?

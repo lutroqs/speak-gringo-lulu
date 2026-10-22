@@ -1,0 +1,75 @@
+@block contracoes-ing | Contrações (isn't, don't…) e o -ing | O apóstrofo (') substitui letras que somem. Atenção: escreve-se isn't (não is'nt): o apóstrofo fica exatamente onde estava o "o" de not.
+## Verbo to be
+B | I am → I'm | áim | eu sou / estou
+B | you are → you're | iór | você é / está
+B | he is → he's | ríz | ele é / está
+B | she is → she's | xíz | ela é / está
+B | it is → it's | its | é / está (coisa)
+B | we are → we're | uír | nós somos / estamos
+B | they are → they're | dhér | eles são / estão
+B | is not → isn't | ÍZ-ent | não é / não está
+B | are not → aren't | ÁR-ent | não são / não estão
+B | I am not → I'm not (não existe "amn't") | áim nót | eu não sou / estou
+I | was not → wasn't | UÓ-zent | não era / estava
+I | were not → weren't | uârnt | não eram / estavam
+## Negativas com auxiliares
+B | do not → don't | dôunt | não (presente)
+B | does not → doesn't | DÂ-zent | não (ele/ela)
+B | did not → didn't | DÍ-dent | não (passado)
+B | cannot → can't | ként (EUA) / kánt (Reino Unido) | não pode / não consegue
+B | will not → won't | uônt | não vai (futuro)
+I | could not → couldn't | KÛ-dent | não podia / não conseguiu
+I | should not → shouldn't | SHÛ-dent | não deveria
+I | would not → wouldn't | UÛ-dent | não iria / não faria
+I | have not → haven't | RÉ-vent | não (present perfect)
+I | has not → hasn't | RÉ-zent | não (ele/ela, present perfect)
+I | must not → mustn't | MÂ-sent | não deve (proibido)
+A | had not → hadn't | RÉ-dent | não tinha (past perfect)
+A | might not → mightn't (raro) | MÁI-tent | talvez não
+A | ain't (gíria) | êint | não (muito informal, evite escrever)
+## Outras contrações
+I | I will → I'll | áil | eu vou (futuro)
+I | I would / I had → I'd | áid | eu iria / eu tinha
+I | I have → I've | áiv | eu tenho (present perfect)
+I | let us → let's | léts | vamos
+I | there is → there's | dhérz | há / tem
+I | that is → that's | dhéts | isso é
+I | what is → what's | uóts | o que é
+I | who is → who's (≠ whose) | húz | quem é (≠ de quem)
+A | it's (it is) ≠ its (dele/dela, coisa) | its | It's late. / The company and its clients.
+A | you're (you are) ≠ your (seu/sua) | iór | You're right. / Your email.
+A | they're ≠ their ≠ there | dhér | eles estão / deles / lá
+## Frases com contrações
+B | She isn't at home. | xi ÍZ-ent ét rôum | Ela não está em casa.
+B | I don't know. | ái dôunt nôu | Não sei.
+B | We aren't ready. | uí ÁR-ent RÉ-di | Não estamos prontos.
+I | I can't come today, I'm working late. | ái ként kâm tu-DÊI, áim UÂR-kin lêit | Não posso ir hoje, vou trabalhar até tarde.
+I | It's not my fault! / It isn't my fault! | its nót mái fólt / it ÍZ-ent mái fólt | Não é culpa minha! (as duas formas existem)
+A | I wouldn't have done that if I'd known. | ái UÛ-dent rév dân dhét if áid nôun | Eu não teria feito isso se soubesse.
+## O -ing: regras de escrita
+B | work → working | UÂR-kin | regra geral: + ing
+B | study → studying | STÂ-di-in | o y fica
+B | play → playing | PLÊI-in | brincando / jogando
+B | make → making | MÊI-kin | e mudo cai
+B | write → writing | RÁI-tin | escrevendo
+B | come → coming | KÂ-min | vindo
+I | run → running | RÂ-nin | consoante + vogal + consoante: dobra a última
+I | sit → sitting | SÍ-tin | sentando
+I | stop → stopping | STÓ-pin | parando
+I | swim → swimming | SUÍ-min | nadando
+I | get → getting | GUÉ-tin | pegando / ficando
+I | lie → lying / die → dying | LÁI-in / DÁI-in | ie vira y
+A | travel → traveling (EUA) / travelling (Reino Unido) | TRÉ-ve-lin | viajando
+A | see → seeing / agree → agreeing | SÍ-in / a-GRÍ-in | ee fica
+A | open → opening / visit → visiting | ÔU-pe-nin / VÍ-zi-tin | sílaba forte não é a última: não dobra
+## O -ing: pronúncia e usos
+B | -ing = "in", com o "g" quase sumindo | in | working = UÂR-kin (nunca "uórkin-gui")
+B | I'm working now. | áim UÂR-kin náu | Estou trabalhando agora. (ação acontecendo)
+B | I like reading. | ái láik RÍ-din | Gosto de ler. (depois de like/love/hate)
+I | Swimming is good for you. | SUÍ-min iz gûd fór iu | Nadar faz bem. (-ing como sujeito)
+I | I'm good at organizing. | áim gûd ét ÓR-ga-nai-zin | Sou boa em organizar. (depois de preposição)
+I | I'm meeting Henrique tonight. | áim MÍ-tin en-RÍ-ki tu-NÁIT | Vou encontrar o Henrique hoje à noite. (plano futuro)
+I | an interesting meeting / a boring class | en ÍN-tres-tin MÍ-tin / a BÓ-rin klés | uma reunião interessante / uma aula chata (-ing como adjetivo)
+A | I'm bored (sinto) x It's boring (causa) | áim bórd / its BÓ-rin | Estou entediada x É chato
+A | I'm looking forward to hearing from you. | áim LÛ-kin FÓR-uârd tchu RÍ-rin from iu | Aguardo seu retorno. (to + -ing)
+A | gonna / wanna / gotta: going to / want to / got to na fala | GÓ-na / UÓ-na / GÓ-ta | vou / quero / tenho que (informal)
